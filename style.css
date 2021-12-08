@@ -9,23 +9,23 @@ h1 {
     font-weight: 300;
 }
 
-#intro{
+#intro {
     background-color: rgb(182, 220, 238);
 }
 
-#origami1{
-   background-color:lightcoral;
+#origami1 {
+    background-color: lightcoral;
 }
 
-#contact_1{
+#contact_1 {
     background-color: cornflowerblue;
 }
-#contact_1 h3
-{
+
+#contact_1 h3 {
     display: inline;
 }
-#contact_1 a
-{
+
+#contact_1 a {
     color: white;
     text-shadow: none;
 }
